@@ -7,8 +7,8 @@ function App() {
 
   const usersData = [
     {id:1, name:"Tamil", username:'Tamilarasan'},
-    {id:2, name:"Kanna", username:'Ennna'},
-    {id:3, name:"Manna", username:'Kanna'},
+    {id:2, name:"Sam", username:'Ram'},
+    {id:3, name:"Jhon", username:'Jack'},
   ];
 
   const [users, setUsers] = useState(usersData);
